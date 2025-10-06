@@ -2,6 +2,8 @@
 
 **Insightify** is a multimodal AI-powered tool that extracts, transcribes, and analyzes video content from platforms like YouTube. Using Google Gemini’s LLM, it can process audio or video links to generate clear transcripts and answer questions about the content—without storing bulky video files locally.  
 
+This tool is not limited to videos from YouTube but can also be used for media files, including MP4, MP3, and text files
+
 ---
 
 ## Features  
